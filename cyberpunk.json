@@ -1,17 +1,21 @@
 {
-    "alternate_base": "#2a2f73",
+    "alternate_base": "#242963",
     "base": "#681a4e",
-    "button": "#061759",
+    "button": "#0b1c56",
     "chat_timestamp": "#494b4e",
     "disabled_button": "#0a0a0c",
     "disabled_icon": "#aaaaac",
     "disabled_text": "#aaaaac",
-    "highlight": "#2f41a2",
-    "highlighted_text": "#ffffff",
+    "highlight": "#8e4ac9",
+    "highlighted_text": "#000000",
     "icon": "#aaaaac",
     "text": "#aaaaac",
     "unread_badge": "#d0d1d4",
     "unread_badge_text": "#2d2c27",
-    "window": "#9c195b"
+    "window": "#8a1654"
 }
 
+#SF Mono Light, 11pt
+#Monospace, 12pt
+#SF Mono Light, 10pt
+#
